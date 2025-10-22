@@ -47,7 +47,7 @@ const socialLinks = [
   },
   {
     name: 'GitHub',
-    url: 'https://github.com/mbmninja',
+    url: 'https://github.com/mbninja1221',
     icon: (
       <svg
       className="w-6 h-6 text-white"
